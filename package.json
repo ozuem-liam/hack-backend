@@ -1,7 +1,7 @@
 {
-  "name": "lawma-backend",
+  "name": "hack-backend",
   "version": "1.0.0",
-  "description": "lawma backend project",
+  "description": "hack backend project",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GateTechNet/lawma-backend.git"
+    "url": "git+https://github.com/ozuem-liam/hack-backend.git"
   },
-  "author": "Gate Technology",
+  "author": "Williams",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GateTechNet/lawma-backend/issues"
+    "url": "https://github.com/ozuem-liam/hack-backend/issues"
   },
-  "homepage": "https://github.com/GateTechNet/lawma-backend#readme",
+  "homepage": "https://github.com/ozuem-liam/hack-backend#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cloudinary": "^1.27.1",
